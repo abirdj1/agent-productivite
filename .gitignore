@@ -1,0 +1,13 @@
+# Ne jamais publier les clés API
+.env
+
+# Fichier de notes (données personnelles)
+notes.json
+
+# Fichiers temporaires
+temp_request.json
+
+# Fichiers système Python
+__pycache__/
+*.py[cod]
+*$py.class
